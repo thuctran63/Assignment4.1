@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assignment4/1.0.0": {
+        "dependencies": {
+          "Exercise1": "1.0.0",
+          "Exercise2": "1.0.0",
+          "Exercise3": "1.0.0",
+          "Exercise4": "1.0.0"
+        },
+        "runtime": {
+          "Assignment4.dll": {}
+        }
+      },
+      "Exercise1/1.0.0": {
+        "runtime": {
+          "Exercise1.dll": {}
+        }
+      },
+      "Exercise2/1.0.0": {
+        "runtime": {
+          "Exercise2.dll": {}
+        }
+      },
+      "Exercise3/1.0.0": {
+        "runtime": {
+          "Exercise3.dll": {}
+        }
+      },
+      "Exercise4/1.0.0": {
+        "runtime": {
+          "Exercise4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

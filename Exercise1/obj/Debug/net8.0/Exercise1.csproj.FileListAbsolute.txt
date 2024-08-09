@@ -1,0 +1,11 @@
+D:\C#\Assignment4\Exercise1\obj\Debug\net8.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assignment4\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfoInputs.cache
+D:\C#\Assignment4\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfo.cs
+D:\C#\Assignment4\Exercise1\obj\Debug\net8.0\Exercise1.csproj.CoreCompileInputs.cache
+D:\C#\Assignment4\Exercise1\bin\Debug\net8.0\Exercise1.deps.json
+D:\C#\Assignment4\Exercise1\bin\Debug\net8.0\Exercise1.dll
+D:\C#\Assignment4\Exercise1\bin\Debug\net8.0\Exercise1.pdb
+D:\C#\Assignment4\Exercise1\obj\Debug\net8.0\Exercise1.dll
+D:\C#\Assignment4\Exercise1\obj\Debug\net8.0\refint\Exercise1.dll
+D:\C#\Assignment4\Exercise1\obj\Debug\net8.0\Exercise1.pdb
+D:\C#\Assignment4\Exercise1\obj\Debug\net8.0\ref\Exercise1.dll
